@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132944978177",
+    "project_id": "lista-de-tarefas-compose-20c8e",
+    "storage_bucket": "lista-de-tarefas-compose-20c8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132944978177:android:7df40b2b64988644023b00",
+        "android_client_info": {
+          "package_name": "com.example.listadetarefascompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQD4CA1LDx0Mg85x1cbom3iamkl9MT9Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
